@@ -24,7 +24,10 @@ https://pysimplegui.readthedocs.io/en/latest/
 ModuleNotFoundError: No module named 'tkinter'
 ```
 
-がんばってググってください。
+こんな感じでググってください。
 
-コツは、自分のOS + エラー文でググることです。
-だいたいわかります。
+```
+Windows ModuleNotFoundError: No module named 'tkinter'
+```
+
+OSによって解決方法がちょっと違うのでOS名も含めて調べると解決できるかもしれません。
