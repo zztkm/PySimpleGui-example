@@ -10,7 +10,7 @@ https://pysimplegui.readthedocs.io/en/latest/
 ## setup
 
 ```shell
-(venv) pip install pysimplegui
+(venv) pip install pysimplegui pyopenssl json2html
 ```
 
 ```shell
